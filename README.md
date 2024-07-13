@@ -13,6 +13,8 @@ in the context of programming language design and compilers.
 I'm a firm believer that software should be [Free](https://www.gnu.org/philosophy/free-sw.html),
 and as such my public repositories are all Free Software.
 
+Check out [my website](https://ariscript.org/)!
+
 ---
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariscript&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true)]()
