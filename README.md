@@ -1,19 +1,26 @@
 ### Hi, I'm Ari! 👋🏽
 
-I'm a first-year student at [Northeastern University](https://northeastern.edu),
+I'm a 19-year-old first-year student at [Northeastern University](https://northeastern.edu),
 majoring in Computer Science and minoring in Mathematics!
 
 I have experience with web development technologies like JavaScript, TypeScript
 (using frameworks like React and Next.js),
-"native" apps using Electron, as well as some experience with Rust.
+"native" apps using Electron, and some experience with Rust.
 
-I also want to learn more functional languages like Haskell or OCaml, and especially
-in the context of programming language design and compilers.
+I also occasionally play around with the Minecraft protocol and make somewhat useful
+(at least to me) things with it.
+
+Currently, I'm most interested in learning functional languages such as Haskell
+and OCaml, with particular applications in programming language design and compilers.
 
 I'm a firm believer that software should be [Free](https://www.gnu.org/philosophy/free-sw.html),
 and as such my public repositories are all Free Software.
 
 Check out [my website](https://ariscript.org/)!
+
+Feel free to contact me via email or through my linked socials!
+
+# 🏳️‍⚧️
 
 ---
 
