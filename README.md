@@ -13,6 +13,9 @@ I also occasionally play around with the Minecraft protocol and make somewhat us
 Currently, I'm most interested in learning functional languages such as Haskell
 and OCaml, with particular applications in programming language design and compilers.
 
+I'm also involved with the Labs team for [TransitMatters](https://transitmatters.org), a
+Boston-based group that advocates for improvements to local and regional transit.
+
 I'm a firm believer that software should be [Free](https://www.gnu.org/philosophy/free-sw.html),
 and as such my public repositories are all Free Software.
 
