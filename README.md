@@ -4,22 +4,21 @@ I'm a second-year student at [Northeastern University](https://northeastern.edu)
 majoring in Computer Science and minoring in Mathematics!
 
 I have experience with web development technologies like JavaScript, TypeScript
-(using frameworks like React and Next.js),
-"native" apps using Electron, and some experience with Rust.
+(using frameworks like React and Next.js), "native" apps using Electron, and some
+experience in other, cooler, languages like Rust, Ocaml, and
+[Racket](https://racket-lang.org).
 
 I also occasionally play around with the Minecraft protocol and make somewhat useful
 (at least to me) things with it.
 
-Currently, I'm most interested in learning functional languages such as Haskell
-and OCaml, with particular applications in programming language design and compilers.
-I'm also learning about formal verification of systems using [Rocq](https://coq.inria.fr/)
-with applications in PL, and verifying real-world code.
+I'm most interested in learning about the Programming Languages field, and more
+specifically, type theory. To that end, I'm taking a course on compilers and
+participated in a reading group where we learned about mechanized proofs using proof
+assistants such as [Rocq](https://coq.inria.fr), applied to a PL context.
 
 I'm also involved with the Labs team for [TransitMatters](https://transitmatters.org), a
-Boston-based group that advocates for improvements to local and regional transit.
-
-I'm a firm believer that software should be [Free](https://www.gnu.org/philosophy/free-sw.html),
-and as such my public repositories are all Free Software.
+Boston-based group that advocates for improvements to local and regional transit, and
+have done some work on the [TransitMatters dashboard](https://dashboard.transitmatters.org).
 
 Check out [my website](https://ariscript.org/)!
 
