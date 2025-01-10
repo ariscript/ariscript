@@ -22,7 +22,7 @@ have done some work on the [TransitMatters dashboard](https://dashboard.transitm
 
 Check out [my website](https://ariscript.org/)!
 
-Feel free to contact me via email or through my linked socials!
+Feel free to contact me via the socials linked there, or email if necessary.
 
 # 🏳️‍⚧️
 
