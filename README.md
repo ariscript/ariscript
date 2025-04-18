@@ -14,8 +14,9 @@ things with it (at least useful to me).
 
 I'm most interested in learning about the theory behind programming languages, and
 how we can use the tools of mathematics and logic to think about programs and computation.
-In this area, I have experience with proof assistants and I'm currently auditing a course
-focused on type systems, their features, and their safety guarantees.
+In this area, I have experience with proof assistants and audted
+[a course](https://ccs.neu.edu/~amal/course/7470-s25) about type systems, and proving
+safety and equivalence properties about them using logical relations.
 
 I'm also involved with the Labs team for [TransitMatters](https://transitmatters.org), a
 Boston-based group that advocates for improvements to local and regional transit, and
