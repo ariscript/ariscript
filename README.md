@@ -22,7 +22,7 @@ I'm also involved with the Labs team for [TransitMatters](https://transitmatters
 Boston-based group that advocates for improvements to local and regional transit, and
 have done some work on the [TransitMatters dashboard](https://dashboard.transitmatters.org).
 
-Check out [my website](https://ariscript.org/)!
+Check out [my website](https://ari.foo/)!
 
 Feel free to contact me via the socials linked there, or email if necessary.
 
