@@ -3,20 +3,14 @@
 I'm a second-year student at [Northeastern University](https://northeastern.edu),
 majoring in Computer Science and minoring in Mathematics!
 
-Currently, I'm more focused on "higher-order" programming: metaprogramming, and
-writing programs that do work with programs. Things like interpreters, compilers,
-and macro systems. To this end, I have experience in langauges like Rust, Ocaml, and
-Racket. I also have experience with web development technologies like JavaScript,
-TypeScript (using frameworks like React and Next.js), and "native" apps using Electron. 
+I'm interested in using the formal tools from logic and mathematics to reason about
+programs and create tools to improve the safety and reliability of our critical software,
+while providing a good experience for developers. I have experience with proof
+mechanization in Rocq and implementing compilers in languages like Rust and OCaml.
 
 I also occasionally play around with the Minecraft protocol and make somewhat useful
-things with it (at least useful to me).
-
-I'm most interested in learning about the theory behind programming languages, and
-how we can use the tools of mathematics and logic to think about programs and computation.
-In this area, I have experience with proof assistants and audted
-[a course](https://ccs.neu.edu/~amal/course/7470-s25) about type systems, and proving
-safety and equivalence properties about them using logical relations.
+things with it (at least useful to me). Additionally, I have experience with web
+technologies and making "native" desktop applications with Electron.
 
 I'm also involved with the Labs team for [TransitMatters](https://transitmatters.org), a
 Boston-based group that advocates for improvements to local and regional transit, and
