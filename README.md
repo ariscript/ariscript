@@ -1,6 +1,6 @@
 ### Hi, I'm Ari! 👋🏽
 
-I'm a second-year student at [Northeastern University](https://northeastern.edu),
+I'm a third-year student at [Northeastern University](https://northeastern.edu),
 majoring in Computer Science and minoring in Mathematics!
 
 I'm interested in using the formal tools from logic and mathematics to reason about
